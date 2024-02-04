@@ -1,0 +1,9 @@
+.indicator {
+    position: absolute;
+    width: 0.1px;
+    height: 10px;
+    background-color: rgb(17, 145, 174);
+    left: 50%;
+    transform-origin: 50% 60px;
+    transform: rotate(0deg);
+}
